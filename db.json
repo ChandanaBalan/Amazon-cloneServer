@@ -1,0 +1,101 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "Samsung Galaxy S23 Ultra",
+        "price": 1299.99,
+        "rating": 5,
+        "image": "https://m.media-amazon.com/images/I/71lD7eGdW-L.jpg",
+        "description": "The Paragraphs module in Drupal offers editors a component-driven architecture for building pages with flexibility and ease. Since 2015, Morpht has been at the forefront of developing innovative approaches to site building using Paragraphs. "
+      },
+      {
+        "id": 2,
+        "title": "Apple MacBook Pro 16-inch",
+        "price": 2499.99,
+        "rating": 4,
+        "image": "https://m.media-amazon.com/images/I/71an9eiBxpL._AC_UY218_.jpg",
+        "description": "The Paragraphs module in Drupal offers editors a component-driven architecture for building pages with flexibility and ease. Since 2015, Morpht has been at the forefront of developing innovative approaches to site building using Paragraphs. "
+      },
+      {
+        "id": 3,
+        "title": "Sony WH-1000XM5 Headphones",
+        "price": 399.99,
+        "rating": 4,
+        "image": "https://www.sony.co.in/image/6145c1d32e6ac8e63a46c912dc33c5bb?fmt=pjpeg&wid=330&bgcolor=FFFFFF&bgc=FFFFFF",
+        "description": "The Paragraphs module in Drupal offers editors a component-driven architecture for building pages with flexibility and ease. Since 2015, Morpht has been at the forefront of developing innovative approaches to site building using Paragraphs. "
+      },
+      {
+        "id": 4,
+        "title": "Echo Dot (5th Gen)",
+        "price": 49.99,
+        "rating": 5,
+        "image": "https://d2xamzlzrdbdbn.cloudfront.net/products/5b2ad698-173c-494c-8ebf-5e1a42574a4623020708.png",
+        "description": "The Paragraphs module in Drupal offers editors a component-driven architecture for building pages with flexibility and ease. Since 2015, Morpht has been at the forefront of developing innovative approaches to site building using Paragraphs. "
+      },
+      {
+        "id": 5,
+        "title": "Kindle Paperwhite",
+        "price": 139.99,
+        "rating": 4,
+        "image": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/09/Kindle-Paperwhite-Right-e1632235734457.jpg",
+        "description": "The Paragraphs module in Drupal offers editors a component-driven architecture for building pages with flexibility and ease. Since 2015, Morpht has been at the forefront of developing innovative approaches to site building using Paragraphs. "
+      },
+      {
+        "id": 6,
+        "title": "Sebamed Clear Face Care Gel",
+        "price": 44.5,
+        "rating": 4,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtKxfiwoo_z6YS6G56YS49KlxiL2njx33uyQ&s",
+        "description": "The Paragraphs module in Drupal offers editors a component-driven architecture for building pages with flexibility and ease. Since 2015, Morpht has been at the forefront of developing innovative approaches to site building using Paragraphs. "
+      },
+      {
+        "id": 7,
+        "title": "HIT Anti Roach Gel",
+        "price": 4.5,
+        "rating": 3,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPGMy84PV_NfDHwsczRMPK2p_ILCcFfVqC7g&s",
+        "description": "The Paragraphs module in Drupal offers editors a component-driven architecture for building pages with flexibility and ease. Since 2015, Morpht has been at the forefront of developing innovative approaches to site building using Paragraphs. "
+      },
+      {
+        "id": 8,
+        "title": "Halonix 2 in 1 All Rounder 9W",
+        "price": 5.2,
+        "rating": 4,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY3ZMPJsJouJpiZc2WuVGWyI3JOT2fp19jag&s",
+        "description": "The Paragraphs module in Drupal offers editors a component-driven architecture for building pages with flexibility and ease. Since 2015, Morpht has been at the forefront of developing innovative approaches to site building using Paragraphs. "
+      },
+      {
+        "id": 9,
+        "title": "Carmesi Reusable Face Razor",
+        "price": 14.5,
+        "rating": 5,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN3PZ9UnIuCsiNg6P4QRtqZThIcMpHw35Y7g&s",
+        "description": "The Paragraphs module in Drupal offers editors a component-driven architecture for building pages with flexibility and ease. Since 2015, Morpht has been at the forefront of developing innovative approaches to site building using Paragraphs. "
+      },
+      {
+        "id": 10,
+        "title": "OnePlus Nord CE4 Lite 5G",
+        "price": 606.75,
+        "rating": 4,
+        "image": "https://image01-in.oneplus.net/media/202406/19/ad3a7ab482ea9ba7fa0975c775769e7c.png",
+        "description": "The Paragraphs module in Drupal offers editors a component-driven architecture for building pages with flexibility and ease. Since 2015, Morpht has been at the forefront of developing innovative approaches to site building using Paragraphs. "
+      },
+      {
+        "id": 11,
+        "title": "SKYVIK SIGNI X Mobile Camera 20x",
+        "price": 60.75,
+        "rating": 4,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiiT_ABfa8jWDd07AT6fauQOW0KbPa6yJYDA&s",
+        "description": "The Paragraphs module in Drupal offers editors a component-driven architecture for building pages with flexibility and ease. Since 2015, Morpht has been at the forefront of developing innovative approaches to site building using Paragraphs. "
+      },
+      {
+        "id": 12,
+        "title": "Oneplus Open",
+        "price": 806.75,
+        "rating": 4,
+        "image": "https://m.media-amazon.com/images/I/71pKVhll1IL.jpg",
+        "description": "The Paragraphs module in Drupal offers editors a component-driven architecture for building pages with flexibility and ease. Since 2015, Morpht has been at the forefront of developing innovative approaches to site building using Paragraphs. "
+      }
+    ]
+  }
+  
